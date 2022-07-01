@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\Retangulo\Retangulo\bin\Debug\Retangulo.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Retangulo\Retangulo\bin\Debug\Retangulo.exe
+c:\users\pc\documents\visual studio 2015\Projects\Retangulo\Retangulo\bin\Debug\Retangulo.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Retangulo\Retangulo\obj\Debug\Retangulo.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\Retangulo\Retangulo\obj\Debug\Retangulo.exe
+c:\users\pc\documents\visual studio 2015\Projects\Retangulo\Retangulo\obj\Debug\Retangulo.pdb
